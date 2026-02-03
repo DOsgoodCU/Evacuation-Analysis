@@ -35,3 +35,4 @@ To copy results to ~/Evacuate/docs and deploy via MkDocs:
 * evacuation_overall.png: Total evacuation vs. stay counts.
 * evacuation_by_type.png: Choice breakdown per player type.
 * evacuation_results.html: Combined summary report.
+# noki_evacuate_process
