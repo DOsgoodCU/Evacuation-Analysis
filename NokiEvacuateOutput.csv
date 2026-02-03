@@ -2105,6 +2105,7 @@ Bambi",2024-12-01 13:48:03.528794-05:00,Scored storms,var,"But before that, what
 16462901985,evacuatedetails,Drive,2026-01-09 16:15:47.067300-05:00,Scored storms,mcq,"How do you think others would evacuate?
 1. Drive
 2. Take public transit",35,16462901985_a22c7d41-2234-4944-afbe-9e775ad9fa89_1767993291.0149846,None
+15104995876,$END_SURVEY$,-,2026-01-14 11:30:46.871995-05:00,Scored storms,text,"Thanks, and goodbye!",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
 16462901985,metastuff,"Please stop, Im done!",2026-01-09 16:16:09.310580-05:00,Scored storms,mcq,"Would you like to share some game ideas?
 1. That would be fun
 2. Please stop, Im done!",35,16462901985_a22c7d41-2234-4944-afbe-9e775ad9fa89_1767993291.0149846,None
@@ -2182,6 +2183,7 @@ Bambi",2024-12-01 13:48:03.528794-05:00,Scored storms,var,"But before that, what
 12128535720,evacuate_select,Heck no! dont evacuate,2026-01-12 12:09:11.152272-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
 1. Yep, evacuate!
 2. Heck no! dont evacuate",111,12128535720_638591e1-0ad4-45a2-8d0b-262e22bdfbd6_1768237691.7967396,None
+12035894346,about,You tell me?,2026-01-14 11:30:52.482923-05:00,Scored storms,var,What would the game be about?,82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
 12128535720,noevacuatedetails,There is no transportation option,2026-01-12 12:09:19.628035-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
 1. There is no transportation option
 2. To protect their home",111,12128535720_638591e1-0ad4-45a2-8d0b-262e22bdfbd6_1768237691.7967396,None
@@ -2189,3 +2191,409 @@ Bambi",2024-12-01 13:48:03.528794-05:00,Scored storms,var,"But before that, what
 1. That would be fun
 2. Please stop, Im done!",111,12128535720_638591e1-0ad4-45a2-8d0b-262e22bdfbd6_1768237691.7967396,None
 12128535720,$END_SURVEY$,-,2026-01-12 12:09:38.973815-05:00,Scored storms,text,"Thanks, and goodbye!",111,12128535720_638591e1-0ad4-45a2-8d0b-262e22bdfbd6_1768237691.7967396,None
+16147870050,start,Max,2026-01-14 11:24:29.773550-05:00,Scored storms,var,"But before that, what is your players name?",32,16147870050_0257a777-a35a-4036-883a-47924a593e01_1768407855.1952727,None
+16147870050,playerselect,Renter,2026-01-14 11:24:40.180049-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",32,16147870050_0257a777-a35a-4036-883a-47924a593e01_1768407855.1952727,None
+16107551787,start,Andrew K ,2026-01-14 11:24:45.270196-05:00,Scored storms,var,"But before that, what is your players name?",153,16107551787_7baaf05e-9f4e-45bb-92c1-3776c9131683_1768407858.1866999,None
+16147870050,evacuate_select,"Yep, evacuate!",2026-01-14 11:24:50.987260-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",32,16147870050_0257a777-a35a-4036-883a-47924a593e01_1768407855.1952727,None
+19172422380,start,Gwen,2026-01-14 11:24:59.196646-05:00,Scored storms,var,"But before that, what is your players name?",158,19172422380_bedd1614-48cc-4e8c-a376-911f0d3369cd_1768407876.5198758,None
+16147870050,evacuatedetails,Take public transit,2026-01-14 11:25:00.626775-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",32,16147870050_0257a777-a35a-4036-883a-47924a593e01_1768407855.1952727,None
+12014503211,start,Marty,2026-01-14 11:25:11.054122-05:00,Scored storms,var,"But before that, what is your players name?",89,12014503211_8b279de1-46ed-445a-ae98-c6facbc8ab9f_1768407863.0311897,None
+16147870050,metastuff,"Please stop, Im done!",2026-01-14 11:25:12.646192-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",32,16147870050_0257a777-a35a-4036-883a-47924a593e01_1768407855.1952727,None
+16147870050,$END_SURVEY$,-,2026-01-14 11:25:12.648703-05:00,Scored storms,text,"Thanks, and goodbye!",32,16147870050_0257a777-a35a-4036-883a-47924a593e01_1768407855.1952727,None
+16464091535,start,Jameson,2026-01-14 11:25:15.693193-05:00,Scored storms,var,"But before that, what is your players name?",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+19172422380,playerselect,Renter,2026-01-14 11:25:16.395601-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",158,19172422380_bedd1614-48cc-4e8c-a376-911f0d3369cd_1768407876.5198758,None
+16464572112,start,George,2026-01-14 11:25:24.301948-05:00,Scored storms,var,"But before that, what is your players name?",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+14127705144,start,Chloe,2026-01-14 11:25:24.480440-05:00,Scored storms,var,"But before that, what is your players name?",154,14127705144_22b8e5b3-a366-420d-997f-263993c7af97_1768407861.1151872,None
+16464078456,start,Dante,2026-01-14 11:25:25.860107-05:00,Scored storms,var,"But before that, what is your players name?",126,16464078456_138b1492-1781-4e7e-8848-b42085961f52_1768407894.7311645,None
+13474154652,start,Ooosh,2026-01-14 11:25:26.270173-05:00,Scored storms,var,"But before that, what is your players name?",155,13474154652_bfe671ed-a066-495c-9314-be07cc76d7dd_1768407869.6046238,None
+19734202052,start,TB,2026-01-14 11:25:28.216580-05:00,Scored storms,var,"But before that, what is your players name?",160,19734202052_c96d2fca-09e7-4bdf-a9ee-f52ea899cd64_1768407880.7523584,None
+18013677723,start,Dion,2026-01-14 11:25:32.039097-05:00,Scored storms,var,"But before that, what is your players name?",156,18013677723_ebf413fe-ad72-464e-a6f9-3232b1d6b310_1768407873.341025,None
+13475850948,start,Luisa,2026-01-14 11:25:32.824491-05:00,Scored storms,var,"But before that, what is your players name?",92,13475850948_b3172a52-b34c-470f-aab2-78b284a0956b_1768407901.4087555,None
+19168074603,start,Mia,2026-01-14 11:25:35.563774-05:00,Scored storms,var,"But before that, what is your players name?",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+13474154652,playerselect,Pet Owner,2026-01-14 11:25:36.652838-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",155,13474154652_bfe671ed-a066-495c-9314-be07cc76d7dd_1768407869.6046238,None
+16464572112,playerselect,Homeowner,2026-01-14 11:25:38.984260-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+16464078456,playerselect,Renter,2026-01-14 11:25:40.279412-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",126,16464078456_138b1492-1781-4e7e-8848-b42085961f52_1768407894.7311645,None
+12014503211,playerselect,Renter,2026-01-14 11:25:45.284877-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",89,12014503211_8b279de1-46ed-445a-ae98-c6facbc8ab9f_1768407863.0311897,None
+19734202052,playerselect,Renter,2026-01-14 11:25:45.370746-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",160,19734202052_c96d2fca-09e7-4bdf-a9ee-f52ea899cd64_1768407880.7523584,None
+18327048669,start,Lucy,2026-01-14 11:25:47.009434-05:00,Scored storms,var,"But before that, what is your players name?",161,18327048669_96fde765-a4f2-4fd5-973b-0562fc8c13f1_1768407885.8667877,None
+19168074603,playerselect,Pet Owner,2026-01-14 11:25:48.147173-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+16464091535,playerselect,Senior,2026-01-14 11:25:51.711469-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+13474154652,evacuate_select,"Yep, evacuate!",2026-01-14 11:25:56.866565-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",155,13474154652_bfe671ed-a066-495c-9314-be07cc76d7dd_1768407869.6046238,None
+16464572112,evacuate_select,"Yep, evacuate!",2026-01-14 11:25:58.245293-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+18327048669,playerselect,Renter,2026-01-14 11:26:00.828384-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",161,18327048669_96fde765-a4f2-4fd5-973b-0562fc8c13f1_1768407885.8667877,None
+13475850948,playerselect,Homeowner,2026-01-14 11:26:01.586002-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",92,13475850948_b3172a52-b34c-470f-aab2-78b284a0956b_1768407901.4087555,None
+19168074603,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:04.166842-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+12012203362,start,Peggy,2026-01-14 11:26:04.651988-05:00,Scored storms,var,"But before that, what is your players name?",165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+19086989495,start,Josh,2026-01-14 11:26:05.814069-05:00,Scored storms,var,"But before that, what is your players name?",81,19086989495_d73e488d-35ef-426a-8252-ae71398797b0_1768407936.3645139,None
+14127705144,playerselect,Pet Owner,2026-01-14 11:26:06.078359-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",154,14127705144_22b8e5b3-a366-420d-997f-263993c7af97_1768407861.1151872,None
+16107551787,playerselect,Pet Owner,2026-01-14 11:26:13.240385-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",153,16107551787_7baaf05e-9f4e-45bb-92c1-3776c9131683_1768407858.1866999,None
+16464572112,evacuatedetails,Take public transit,2026-01-14 11:26:14.410737-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+19086989495,playerselect,Pet Owner,2026-01-14 11:26:15.806970-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",81,19086989495_d73e488d-35ef-426a-8252-ae71398797b0_1768407936.3645139,None
+12035894346,start,Pet owner,2026-01-14 11:26:28.092665-05:00,Scored storms,var,"But before that, what is your players name?",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+19734202052,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:31.287256-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",160,19734202052_c96d2fca-09e7-4bdf-a9ee-f52ea899cd64_1768407880.7523584,None
+18013677723,playerselect,Renter,2026-01-14 11:26:37.619313-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",156,18013677723_ebf413fe-ad72-464e-a6f9-3232b1d6b310_1768407873.341025,None
+12012203362,playerselect,Pet Owner,2026-01-14 11:26:40.457681-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+19086989495,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:46.892345-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",81,19086989495_d73e488d-35ef-426a-8252-ae71398797b0_1768407936.3645139,None
+19172422380,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:47.416281-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",158,19172422380_bedd1614-48cc-4e8c-a376-911f0d3369cd_1768407876.5198758,None
+16464091535,evacuate_select,Heck no! dont evacuate,2026-01-14 11:26:48.249147-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+19734202052,evacuatedetails,Take public transit,2026-01-14 11:26:51.245633-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",160,19734202052_c96d2fca-09e7-4bdf-a9ee-f52ea899cd64_1768407880.7523584,None
+12035894346,playerselect,Pet Owner,2026-01-14 11:26:52.487941-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+16464078456,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:53.412678-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",126,16464078456_138b1492-1781-4e7e-8848-b42085961f52_1768407894.7311645,None
+18013677674,start,E,2026-01-14 11:26:54.511700-05:00,Scored storms,var,"But before that, what is your players name?",162,18013677674_71a34f38-21f4-4a95-966c-aab9878b98c2_1768407886.0640602,None
+19086989495,evacuatedetails,Drive,2026-01-14 11:26:56.135556-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",81,19086989495_d73e488d-35ef-426a-8252-ae71398797b0_1768407936.3645139,None
+12012203362,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:57.597730-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+13475850948,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:58.316452-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",92,13475850948_b3172a52-b34c-470f-aab2-78b284a0956b_1768407901.4087555,None
+16107551787,evacuate_select,"Yep, evacuate!",2026-01-14 11:26:59.393948-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",153,16107551787_7baaf05e-9f4e-45bb-92c1-3776c9131683_1768407858.1866999,None
+19168074603,evacuatedetails,Drive,2026-01-14 11:27:01.979574-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+16464572112,metastuff,That would be fun,2026-01-14 11:27:02.325877-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+18013677674,playerselect,Renter,2026-01-14 11:27:03.345315-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",162,18013677674_71a34f38-21f4-4a95-966c-aab9878b98c2_1768407886.0640602,None
+15104995876,start,Eugene,2026-01-14 11:27:03.714775-05:00,Scored storms,var,"But before that, what is your players name?",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+12012203362,evacuatedetails,Drive,2026-01-14 11:27:10.032566-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+13475850948,evacuatedetails,Drive,2026-01-14 11:27:12.999117-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",92,13475850948_b3172a52-b34c-470f-aab2-78b284a0956b_1768407901.4087555,None
+16107551787,evacuatedetails,Take public transit,2026-01-14 11:27:13.406681-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",153,16107551787_7baaf05e-9f4e-45bb-92c1-3776c9131683_1768407858.1866999,None
+19086989495,metastuff,"Please stop, Im done!",2026-01-14 11:27:13.621282-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",81,19086989495_d73e488d-35ef-426a-8252-ae71398797b0_1768407936.3645139,None
+19086989495,$END_SURVEY$,-,2026-01-14 11:27:13.623417-05:00,Scored storms,text,"Thanks, and goodbye!",81,19086989495_d73e488d-35ef-426a-8252-ae71398797b0_1768407936.3645139,None
+15104995876,playerselect,Senior,2026-01-14 11:27:14.210444-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+16464091535,noevacuatedetails,To protect their home,2026-01-14 11:27:18.893908-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
+1. There is no transportation option
+2. To protect their home",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+12035894346,evacuate_select,Heck no! dont evacuate,2026-01-14 11:27:21.929364-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+19172422380,evacuatedetails,Drive,2026-01-14 11:27:25.242278-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",158,19172422380_bedd1614-48cc-4e8c-a376-911f0d3369cd_1768407876.5198758,None
+18013677723,evacuate_select,"Yep, evacuate!",2026-01-14 11:27:26.782081-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",156,18013677723_ebf413fe-ad72-464e-a6f9-3232b1d6b310_1768407873.341025,None
+16107551787,metastuff,"Please stop, Im done!",2026-01-14 11:27:27.717453-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",153,16107551787_7baaf05e-9f4e-45bb-92c1-3776c9131683_1768407858.1866999,None
+16107551787,$END_SURVEY$,-,2026-01-14 11:27:27.719620-05:00,Scored storms,text,"Thanks, and goodbye!",153,16107551787_7baaf05e-9f4e-45bb-92c1-3776c9131683_1768407858.1866999,None
+16464078456,evacuatedetails,Take public transit,2026-01-14 11:27:33.409363-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",126,16464078456_138b1492-1781-4e7e-8848-b42085961f52_1768407894.7311645,None
+12035894346,noevacuatedetails,To protect their home,2026-01-14 11:27:33.701777-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
+1. There is no transportation option
+2. To protect their home",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+15104995876,evacuate_select,Heck no! dont evacuate,2026-01-14 11:27:36.301416-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+14127705144,evacuate_select,"Yep, evacuate!",2026-01-14 11:27:36.688267-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",154,14127705144_22b8e5b3-a366-420d-997f-263993c7af97_1768407861.1151872,None
+13472572903,start,Rancher,2026-01-14 11:27:37.743751-05:00,Scored storms,var,"But before that, what is your players name?",164,13472572903_b04cbba1-ca04-408f-bba3-dc586497e6c1_1768407925.6837702,None
+16464091535,metastuff,That would be fun,2026-01-14 11:27:42.125820-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+12012203362,metastuff,That would be fun,2026-01-14 11:27:45.841874-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+14127705144,evacuatedetails,Drive,2026-01-14 11:27:47.551984-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",154,14127705144_22b8e5b3-a366-420d-997f-263993c7af97_1768407861.1151872,None
+15104995876,noevacuatedetails,There is no transportation option,2026-01-14 11:27:47.626566-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
+1. There is no transportation option
+2. To protect their home",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+16464078456,metastuff,That would be fun,2026-01-14 11:27:56.514887-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",126,16464078456_138b1492-1781-4e7e-8848-b42085961f52_1768407894.7311645,None
+16464572112,about,A game on renewable energy and energy efficiency ,2026-01-14 11:28:06.221902-05:00,Scored storms,var,What would the game be about?,159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+14127705144,metastuff,That would be fun,2026-01-14 11:28:08.728565-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",154,14127705144_22b8e5b3-a366-420d-997f-263993c7af97_1768407861.1151872,None
+13474154652,evacuatedetails,Take public transit,2026-01-14 11:28:20.568237-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",155,13474154652_bfe671ed-a066-495c-9314-be07cc76d7dd_1768407869.6046238,None
+16464572112,exampleq,Would you put solar panels on your home?,2026-01-14 11:28:33.037917-05:00,Scored storms,var,Interesting! What would be an example question?,159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+18327048669,evacuate_select,"Yep, evacuate!",2026-01-14 11:28:38.005952-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",161,18327048669_96fde765-a4f2-4fd5-973b-0562fc8c13f1_1768407885.8667877,None
+16464572112,eduvsfeedback,Mostly to get their thoughts,2026-01-14 11:28:43.972464-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+15104995876,metastuff,That would be fun,2026-01-14 11:28:44.922617-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+18327048669,evacuatedetails,Take public transit,2026-01-14 11:28:46.359031-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",161,18327048669_96fde765-a4f2-4fd5-973b-0562fc8c13f1_1768407885.8667877,None
+15104995876,about,There are protests down the street and some smoke on the horizon,2026-01-14 11:29:18.341885-05:00,Scored storms,var,What would the game be about?,166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+12014503211,evacuate_select,Heck no! dont evacuate,2026-01-14 11:29:19.571031-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",89,12014503211_8b279de1-46ed-445a-ae98-c6facbc8ab9f_1768407863.0311897,None
+14357240528,start,Ryder,2026-01-14 11:29:30.272865-05:00,Scored storms,var,"But before that, what is your players name?",167,14357240528_abb7408b-c28d-41b1-9b70-866b34333414_1768408155.2786334,None
+14357240528,playerselect,Homeowner,2026-01-14 11:29:41.783868-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",167,14357240528_abb7408b-c28d-41b1-9b70-866b34333414_1768408155.2786334,None
+13477073289,start,Das,2026-01-14 11:29:41.981818-05:00,Scored storms,var,"But before that, what is your players name?",168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+15104995876,exampleq,Join the protests?  Call the police?  Evacuate?   Hide?,2026-01-14 11:29:44.118217-05:00,Scored storms,var,Interesting! What would be an example question?,166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+13474154652,metastuff,"Please stop, Im done!",2026-01-14 11:29:47.962357-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",155,13474154652_bfe671ed-a066-495c-9314-be07cc76d7dd_1768407869.6046238,None
+13474154652,$END_SURVEY$,-,2026-01-14 11:29:47.964870-05:00,Scored storms,text,"Thanks, and goodbye!",155,13474154652_bfe671ed-a066-495c-9314-be07cc76d7dd_1768407869.6046238,None
+12012203362,about,Where to go after disaster,2026-01-14 11:29:50.747216-05:00,Scored storms,var,What would the game be about?,165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+15104995876,eduvsfeedback,Mostly to get their thoughts,2026-01-14 11:29:54.127003-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+13477073289,playerselect,Renter,2026-01-14 11:29:54.781025-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+12012203362,exampleq,Where are you headed ,2026-01-14 11:30:01.285932-05:00,Scored storms,var,Interesting! What would be an example question?,165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+14357240528,evacuate_select,Heck no! dont evacuate,2026-01-14 11:30:01.326310-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",167,14357240528_abb7408b-c28d-41b1-9b70-866b34333414_1768408155.2786334,None
+15104995876,howfun,I would make it hypothetical,2026-01-14 11:30:06.746728-05:00,Scored storms,mcq,"How realistic would you make your game?
+1. I would make it hypothetical
+2. I would make it relatively realistic
+3. I might not even call it a game but ask people about their real life",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+14357240528,noevacuatedetails,To protect their home,2026-01-14 11:30:13.164553-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
+1. There is no transportation option
+2. To protect their home",167,14357240528_abb7408b-c28d-41b1-9b70-866b34333414_1768408155.2786334,None
+12012203362,eduvsfeedback,Mostly to get their thoughts,2026-01-14 11:30:15.381049-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",165,12012203362_c2795f1f-cc7a-48c8-9d4c-b8144b43aa19_1768407948.6113284,None
+15104995876,whoplays,Parents. Kids,2026-01-14 11:30:18.510560-05:00,Scored storms,var,"Who would be your target audience, who are some example players?",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+13477073289,evacuate_select,"Yep, evacuate!",2026-01-14 11:30:19.134770-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+12014503211,noevacuatedetails,There is no transportation option,2026-01-14 11:30:25.590755-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
+1. There is no transportation option
+2. To protect their home",89,12014503211_8b279de1-46ed-445a-ae98-c6facbc8ab9f_1768407863.0311897,None
+18013677723,evacuatedetails,Drive,2026-01-14 11:30:27.465113-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",156,18013677723_ebf413fe-ad72-464e-a6f9-3232b1d6b310_1768407873.341025,None
+14357240528,metastuff,"Please stop, Im done!",2026-01-14 11:30:27.736573-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",167,14357240528_abb7408b-c28d-41b1-9b70-866b34333414_1768408155.2786334,None
+14357240528,$END_SURVEY$,-,2026-01-14 11:30:27.739051-05:00,Scored storms,text,"Thanks, and goodbye!",167,14357240528_abb7408b-c28d-41b1-9b70-866b34333414_1768408155.2786334,None
+15104995876,concern,Don't know,2026-01-14 11:30:31.252396-05:00,Scored storms,var,What are potential concerns to look out for when developing and using the game?,166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+15104995876,comments,Nope,2026-01-14 11:30:36.056447-05:00,Scored storms,var,Do you have any other thoughts or comments?,166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+12035894346,metastuff,That would be fun,2026-01-14 11:30:36.938691-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+13477073289,evacuatedetails,Drive,2026-01-14 11:30:42.664448-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+15104995876,emaillist,No!,2026-01-14 11:30:46.869748-05:00,Scored storms,mcq,"Would you like to share your email, if we get our act together enough to follow up?
+1. Actually, yes I would
+2. No!",166,15104995876_671ed56e-3a5c-4f58-a016-a4870114a9b7_1768408004.8359756,None
+16464572112,howfun,I would make it hypothetical,2026-01-14 11:31:00.396701-05:00,Scored storms,mcq,"How realistic would you make your game?
+1. I would make it hypothetical
+2. I would make it relatively realistic
+3. I might not even call it a game but ask people about their real life",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+12035894346,exampleq,How can I connect to others about what they would do?,2026-01-14 11:31:24.917369-05:00,Scored storms,var,Interesting! What would be an example question?,82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+12035894346,eduvsfeedback,Mostly to get their thoughts,2026-01-14 11:31:34.352565-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+12488609345,start,Sari,2026-01-14 11:31:38.647531-05:00,Scored storms,var,"But before that, what is your players name?",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,playerselect,Homeowner,2026-01-14 11:31:47.322031-05:00,Scored storms,mcq,"Please select your player type
+1. Homeowner
+2. Pet Owner
+3. Senior
+4. Renter",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12035894346,howfun,I would make it relatively realistic,2026-01-14 11:31:48.581311-05:00,Scored storms,mcq,"How realistic would you make your game?
+1. I would make it hypothetical
+2. I would make it relatively realistic
+3. I might not even call it a game but ask people about their real life",82,12035894346_236e41b2-b099-4b63-b778-c286c2747f87_1768407944.5242739,None
+12488609345,evacuate_select,Heck no! dont evacuate,2026-01-14 11:31:59.913961-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,noevacuatedetails,To protect their home,2026-01-14 11:32:08.386189-05:00,Scored storms,mcq,"Why do you think people would not evacuate?
+1. There is no transportation option
+2. To protect their home",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+18013677674,evacuate_select,"Yep, evacuate!",2026-01-14 11:32:17.900747-05:00,Scored storms,mcq,"A hurricane is coming and high winds and flooding are expected. You get an alert that you are required to evacuate. Do you think players of your type evacuate? Please select a response:
+1. Yep, evacuate!
+2. Heck no! dont evacuate",162,18013677674_71a34f38-21f4-4a95-966c-aab9878b98c2_1768407886.0640602,None
+12488609345,metastuff,That would be fun,2026-01-14 11:32:22.198173-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+16464572112,whoplays,People who own property and can invest in renewable energy or energy efficiency projects,2026-01-14 11:32:26.939044-05:00,Scored storms,var,"Who would be your target audience, who are some example players?",159,16464572112_71d468dc-67e1-4f10-a5db-595385ca81bf_1768407878.6712706,None
+18013677674,evacuatedetails,Drive,2026-01-14 11:32:29.763339-05:00,Scored storms,mcq,"How do you think others would evacuate?
+1. Drive
+2. Take public transit",162,18013677674_71a34f38-21f4-4a95-966c-aab9878b98c2_1768407886.0640602,None
+13477073289,metastuff,That would be fun,2026-01-14 11:32:48.233782-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+12488609345,about,Making decisions under high heat stress,2026-01-14 11:32:59.567634-05:00,Scored storms,var,What would the game be about?,37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+13477073289,about,Safety tips ,2026-01-14 11:33:16.249020-05:00,Scored storms,var,What would the game be about?,168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+13477073289,exampleq,What do you take to leave with you if it's a short notice?,2026-01-14 11:33:46.664254-05:00,Scored storms,var,Interesting! What would be an example question?,168,13477073289_d3860a29-ef31-4d3f-b8a1-691ee020f53d_1768408165.4425004,None
+12488609345,exampleq,Asking to see what sort of environmental factors would be experienced in order to take a break while working,2026-01-14 11:33:48.855737-05:00,Scored storms,var,Interesting! What would be an example question?,37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,eduvsfeedback,Mostly everything,2026-01-14 11:33:59.505782-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,howfun,I might not even call it a game but ask people about their real life,2026-01-14 11:34:10.091363-05:00,Scored storms,mcq,"How realistic would you make your game?
+1. I would make it hypothetical
+2. I would make it relatively realistic
+3. I might not even call it a game but ask people about their real life",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,whoplays,"Migrant workers, outdoor workers, people who commute mainly outdoors",2026-01-14 11:34:32.161882-05:00,Scored storms,var,"Who would be your target audience, who are some example players?",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,concern,"My main concern is that a lot of the heat recommendations are based off of men in their 20s, 30s, maybe 40s, but exclude women, elderly, people who have other considerations for working outdoors",2026-01-14 11:35:32.846957-05:00,Scored storms,var,What are potential concerns to look out for when developing and using the game?,37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,comments,Not particularly,2026-01-14 11:35:44.441496-05:00,Scored storms,var,Do you have any other thoughts or comments?,37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,emaillist,"Actually, yes I would",2026-01-14 11:35:53.461624-05:00,Scored storms,mcq,"Would you like to share your email, if we get our act together enough to follow up?
+1. Actually, yes I would
+2. No!",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,theemail,Slb2194@columbia.edu,2026-01-14 11:36:06.876395-05:00,Scored storms,var,What email should we use?,37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+12488609345,$END_SURVEY$,-,2026-01-14 11:36:06.877626-05:00,Scored storms,text,"Thanks, and goodbye!",37,12488609345_2b2e829b-1a60-489a-8616-a13d56b151b0_1768408284.1724088,None
+19168074603,metastuff,That would be fun,2026-01-14 11:37:56.634218-05:00,Scored storms,mcq,"Would you like to share some game ideas?
+1. That would be fun
+2. Please stop, Im done!",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+19168074603,about,Effective evacuations - what does trust mean to different people and how does it influence decisions ,2026-01-14 11:38:36.728567-05:00,Scored storms,var,What would the game be about?,163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+19168074603,exampleq,If you received a notification from the federal government would that change your action? Or if you received a notification from a community leader would that change your action? ,2026-01-14 11:39:25.427077-05:00,Scored storms,var,Interesting! What would be an example question?,163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+19168074603,eduvsfeedback,Mostly everything,2026-01-14 11:39:36.872040-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+19168074603,howfun,I would make it relatively realistic,2026-01-14 11:39:47.199876-05:00,Scored storms,mcq,"How realistic would you make your game?
+1. I would make it hypothetical
+2. I would make it relatively realistic
+3. I might not even call it a game but ask people about their real life",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+16464091535,about,Understanding and developing other risk and disaster adaptations alternative to evacuation - are there other options? And also what's the actual risk if I don't evacuate compared to my experiences in the past when I did/didnt evacuate ?,2026-01-14 11:40:27.730581-05:00,Scored storms,var,What would the game be about?,157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+19168074603,whoplays,"Families, elderly, farmers, individuals ",2026-01-14 11:40:36.145001-05:00,Scored storms,var,"Who would be your target audience, who are some example players?",163,19168074603_a2ecf449-5f24-4fc8-8c3d-0b4506c58fa5_1768407912.2412567,None
+16464091535,exampleq,"If you don't plan to evacuate, why? (More open ended), and what will you do if you don't evacuate to manage risk? ",2026-01-14 11:41:05.595656-05:00,Scored storms,var,Interesting! What would be an example question?,157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,eduvsfeedback,Mostly everything,2026-01-14 11:41:56.491726-05:00,Scored storms,mcq,"Would your game be primarily to educate people, or to learn their thoughts?
+1. Mostly educational
+2. Mostly to get their thoughts
+3. Mostly everything",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,howfun,I might not even call it a game but ask people about their real life,2026-01-14 11:42:09.811394-05:00,Scored storms,mcq,"How realistic would you make your game?
+1. I would make it hypothetical
+2. I would make it relatively realistic
+3. I might not even call it a game but ask people about their real life",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,whoplays,People in the disaster... local land and sea users... and also risk decision makers ,2026-01-14 11:43:03.247743-05:00,Scored storms,var,"Who would be your target audience, who are some example players?",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,concern,Frame it based on understanding / mapping the responses people have developed over time In socioecological context... to bolster social networks instead of accidentally undermining or not being effective in comms ,2026-01-14 11:51:30.615858-05:00,Scored storms,var,What are potential concerns to look out for when developing and using the game?,157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,comments,I think telling someone they won when it's not believable would serve to undermine trust - I would think building genuine trust /comms /connection/context is most useful?,2026-01-14 11:52:27.971515-05:00,Scored storms,var,Do you have any other thoughts or comments?,157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,emaillist,"Actually, yes I would",2026-01-14 11:52:36.705313-05:00,Scored storms,mcq,"Would you like to share your email, if we get our act together enough to follow up?
+1. Actually, yes I would
+2. No!",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,theemail,LeanneNPhelps@gmail.com or Lnp2130@columbia.edu,2026-01-14 11:53:05.314413-05:00,Scored storms,var,What email should we use?,157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
+16464091535,$END_SURVEY$,-,2026-01-14 11:53:05.315339-05:00,Scored storms,text,"Thanks, and goodbye!",157,16464091535_b91aeb8d-1e0e-4abf-9da5-8605014883f4_1768407874.6587298,None
